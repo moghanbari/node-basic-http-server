@@ -1,0 +1,23 @@
+{
+  "name": "node-basic-http-server",
+  "version": "1.0.0",
+  "description": "A very basic pure node.js application which serves html pages inside public folder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moghanbari/node-basic-http-server.git"
+  },
+  "author": "Mo Ghanbari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moghanbari/node-basic-http-server/issues"
+  },
+  "homepage": "https://github.com/moghanbari/node-basic-http-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
