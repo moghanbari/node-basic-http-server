@@ -7,6 +7,6 @@ npm start
 ```
 ##### To watch
 ```
-npm watch
+npm run dev
 ```
 
